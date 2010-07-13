@@ -1,0 +1,9 @@
+README for simple_letters
+=========================
+
+This is a correspondence database I'm using for my dissertation on the history of birth certificates in the US.
+
+Right now, all that's here is a current dump of a MySQL schema and its data, and my OpenOffice database frontend for it. I'm planning to write out more about what I'm doing later.
+
+Shane Landrum
+srl at cliotropic SPAMKILLER dot org
